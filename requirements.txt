@@ -1,0 +1,5 @@
+requests>=2.31.0
+beautifulsoup4>=4.12,<5
+lxml>=5.2,<7
+playwright>=1.55,<2
+zyte-api>=0.5.0
